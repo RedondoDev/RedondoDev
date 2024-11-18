@@ -7,7 +7,7 @@
 
 - 🌱 Perfeccionando mis habilidades con **Spring Boot**
 
-- 👯 Ahora estoy desarrollando [PiggyBank](https://github.com/RedondoDev/PiggyBank)
+- 👯 Ahora estoy desarrollando [CodeVert](https://github.com/iron-bit/CodeVert_Api)
 
 - 🤝 Me encantaría colaborar contigo para mis **Prácticas de empresa**
 
