@@ -7,7 +7,7 @@
 
 - 🌱 Perfeccionando mis habilidades con **Spring Boot**
 
-- 👯 Ahora estoy desarrollando [CodeVert](https://github.com/iron-bit/CodeVert_Api)
+- 👯 Ahora estoy desarrollando [CodeClicker](https://github.com/RedondoDev/CodeClicker) y [CodeVertApi](https://github.com/iron-bit/CodeVert_Api)
 
 - 🤝 Me encantaría colaborar contigo para mis **Prácticas de empresa**
 
