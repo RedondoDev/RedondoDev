@@ -7,7 +7,7 @@
 
 - 🌱 Perfeccionando mis habilidades con **Spring Boot**
 
-- 👯 Ahora estoy desarrollando [opjj](https://github.com/RedondoDev/opjj) y [CodeVertApi](https://github.com/iron-bit/CodeVert_Api)
+- 👯 Ahora estoy desarrollando el [Backend](https://github.com/iron-bit/djangular-back) y [Frontend](https://github.com/iron-bit/djangular-frontend) de Blueddit
 
 - 🤝 Me encantaría colaborar contigo para mis **Prácticas de empresa**
 
@@ -20,5 +20,5 @@
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,flask,mysql,sqlite,oracle,html,css,kotlin,jetpackcompose" alt="Languages and Frameworks"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,flask,angular,js,html,css,mysql,sqlite,oracle,kotlin,jetpackcompose" alt="Languages and Frameworks"/>
 </p>
