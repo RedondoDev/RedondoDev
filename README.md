@@ -22,3 +22,9 @@
 <p align="left">
 <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,flask,angular,js,html,css,mysql,sqlite,oracle,kotlin,jetpackcompose" alt="Languages and Frameworks"/>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedondoDev/RedondoDev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedondoDev/RedondoDev/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RedondoDev/RedondoDev/output/github-snake.svg" />
+</picture>
