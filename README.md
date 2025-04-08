@@ -7,7 +7,7 @@
 
 - 🌱 Perfeccionando mis habilidades con **Spring Boot**
 
-- 👯 Ahora estoy desarrollando el [Backend](https://github.com/iron-bit/djangular-back) y [Frontend](https://github.com/iron-bit/djangular-frontend) de Blueddit
+- 👯 Ahora estoy desarrollando GeeXPert
 
 - 🤝 Me encantaría colaborar contigo para mis **Prácticas de empresa**
 
