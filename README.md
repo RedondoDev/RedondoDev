@@ -20,7 +20,7 @@
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,flask,angular,js,html,css,mysql,sqlite,oracle,kotlin,jetpackcompose" alt="Languages and Frameworks"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,flask,angular,ts,html,css,mysql,sqlite,oracle,kotlin,jetpackcompose" alt="Languages and Frameworks"/>
 </p>
 
 <picture>
