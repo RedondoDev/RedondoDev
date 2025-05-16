@@ -7,7 +7,7 @@
 
 - 🌱 Perfeccionando mis habilidades con **Spring Boot**
 
-- 👯 Ahora estoy desarrollando GeeXPert
+- 👯 Ahora estoy desarrollando <a href="https://github.com/RedondoDev/GeeXPert-Backend">GeeXPert Backend</a> y <a href="https://github.com/RedondoDev/GeeXPert-Frontend">GeeXPert Frontend</a>
 
 - 🤝 Me encantaría colaborar contigo para mis **Prácticas de empresa**
 
