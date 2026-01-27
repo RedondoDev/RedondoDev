@@ -5,7 +5,7 @@
 
 - 📚 Actualmente estoy buscando trabajo como **Desarrollador Backend**
 
-- 🌱 Perfeccionando mis habilidades con **Spring Boot, Spring Security y **Spring Cloud.**
+- 🌱 Perfeccionando mis habilidades con **Spring Boot, Spring Security y Spring Cloud.**
 
 - 👯 Último desarrollo <a href="https://github.com/RedondoDev/GeeXPert">GeeXPert</a>.
 
