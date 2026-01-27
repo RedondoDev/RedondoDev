@@ -3,11 +3,11 @@
 <hr>
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/cbf598e5-5d80-44f2-a3f3-a743d5fdb873">
 
-- 📚 Actualmente estoy buscando trabajo como **Desarrollador Backend**
+- 📚 Actualmente estoy buscando trabajo como **Desarrollador Backend.**
 
 - 🌱 Perfeccionando mis habilidades con **Spring Boot, Spring Security y Spring Cloud.**
 
-- 🖥️ Último desarrollo <a href="https://github.com/RedondoDev/GeeXPert">GeeXPert</a>.
+- 🖥️ Último desarrollo: <a href="https://github.com/RedondoDev/GeeXPert">GeeXPert</a>.
 
 - 🤝 Me encantaría poder mejorar mis habilidades y aportar valor a tu empresa.
 
