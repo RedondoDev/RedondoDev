@@ -3,13 +3,13 @@
 <hr>
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/cbf598e5-5d80-44f2-a3f3-a743d5fdb873">
 
-- 📚 Actualmente estoy estudiando 2º DAM en **IES Las Salinas**
+- 📚 Actualmente estoy buscando trabajo como **Desarrollador Backend**
 
-- 🌱 Perfeccionando mis habilidades con **Spring Boot**
+- 🌱 Perfeccionando mis habilidades con **Spring Boot, Spring Security y **Spring Cloud.**
 
-- 👯 Ahora estoy desarrollando <a href="https://github.com/RedondoDev/GeeXPert">GeeXPert</a>
+- 👯 Último desarrollo <a href="https://github.com/RedondoDev/GeeXPert">GeeXPert</a>.
 
-- 🤝 Me encantaría colaborar contigo para mis **Prácticas de empresa**
+- 🤝 Me encantaría poder mejorar mis habilidades y aportar valor a tu empresa.
 
 - 📫 Contacta conmigo a través de **JavierRedondoDEV@gmail.com**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 <p align="left">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,python,flask,angular,ts,html,css,mysql,sqlite,oracle,kotlin,jetpackcompose" alt="Languages and Frameworks"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java,spring,mysql,postgres,angular,ts,html,css,kotlin,jetpackcompose" alt="Languages and Frameworks"/>
 </p>
 
 <picture>
