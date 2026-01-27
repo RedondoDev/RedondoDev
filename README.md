@@ -7,7 +7,7 @@
 
 - 🌱 Perfeccionando mis habilidades con **Spring Boot, Spring Security y Spring Cloud.**
 
-- 👯 Último desarrollo <a href="https://github.com/RedondoDev/GeeXPert">GeeXPert</a>.
+- 🖥️ Último desarrollo <a href="https://github.com/RedondoDev/GeeXPert">GeeXPert</a>.
 
 - 🤝 Me encantaría poder mejorar mis habilidades y aportar valor a tu empresa.
 
